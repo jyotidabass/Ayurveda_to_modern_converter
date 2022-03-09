@@ -1,1 +1,2 @@
-# Ayurveda_to_modern_converter
+# Ayurveda-to-Modern-Converter
+A mini project in JavaScript which converts Traditional Ayurveda Units to Modern Units.
